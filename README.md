@@ -2,15 +2,17 @@
 
 ## How to use
 
- 1.Please download the .env file from the email. I have attached the .env file to the email
+ 1. Please download the .env file from the email. I have attached the .env file to the email
 
- 2.paste [.env] to your directory  
+ 2. paste [.env] to your directory  
 
- 3.npm i
+ ## How to install
 
-## How to run
+ $ npm install
 
-  npm start
+## How to run (server run at http://127.0.0.1:8000)
+
+ $ npm start
 
 ## About API  
 
